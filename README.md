@@ -2,7 +2,7 @@
 collection of processing.js scripts for image manipulation.  
 
 ## example result:
-![](_f_keri2_pixellate.mp4)
+![](kerioutput.gif)
 
 ## pixellate_drift_rg usage and example:
 
