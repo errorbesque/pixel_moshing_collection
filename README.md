@@ -1,7 +1,10 @@
 # pixel_moshing_collection
 collection of processing.js scripts for image manipulation.  
 
-pixellate_drift_rg usage and example:
+## example result:
+![](keri.gif)
+
+## pixellate_drift_rg usage and example:
 
 add image of interest to data. reference image. observe pixelshifting algo run. for gif creation, record screen and manipulate frames.
 
