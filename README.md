@@ -1,5 +1,5 @@
 # pixel_moshing_collection
-collection of processing.js scripts for image manipulation.  
+collection of processing.js scripts for image manipulation. specifically made for adding effects to strobe captures of dancers. 
 
 ## example result:
 ![](kerioutput.gif)
